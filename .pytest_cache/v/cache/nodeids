@@ -1,0 +1,19 @@
+[
+  "create_kit_name_kit_test.py::test_create_kit_0_letter_in_name_get_error_response",
+  "create_kit_name_kit_test.py::test_create_kit_1_letter_in_name_get_success_response",
+  "create_kit_name_kit_test.py::test_create_kit_1_symbol_in_name_get_success_response",
+  "create_kit_name_kit_test.py::test_create_kit_511_letter_in_name_get_success_response",
+  "create_kit_name_kit_test.py::test_create_kit_511_symbol_in_name_get_success_response",
+  "create_kit_name_kit_test.py::test_create_kit_512_letter_in_name_get_error_response",
+  "create_kit_name_kit_test.py::test_create_kit_english_letter_in_name_get_success_response",
+  "create_kit_name_kit_test.py::test_create_kit_english_letters_in_name_get_success_response",
+  "create_kit_name_kit_test.py::test_create_kit_has_number_in_name_get_success_response",
+  "create_kit_name_kit_test.py::test_create_kit_has_space_in_name_get_success_response",
+  "create_kit_name_kit_test.py::test_create_kit_has_special_simbol_in_name_get_success_response",
+  "create_kit_name_kit_test.py::test_create_kit_has_special_simbols_in_name_get_success_response",
+  "create_kit_name_kit_test.py::test_create_kit_name_kit_1_letter_in_name_get_success_response",
+  "create_kit_name_kit_test.py::test_create_kit_no_name_get_error_response",
+  "create_kit_name_kit_test.py::test_create_kit_number_type_name_get_error_response",
+  "create_kit_name_kit_test.py::test_create_kit_russian_letter_in_name_get_success_response",
+  "create_kit_name_kit_test.py::test_create_kit_russian_letters_in_name_get_success_response"
+]

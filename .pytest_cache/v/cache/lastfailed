@@ -1,0 +1,7 @@
+{
+  "create_kit_name_kit_test.py::test_create_kit_name_kit_1_letter_in_name_get_success_response": true,
+  "create_kit_name_kit_test.py::test_create_kit_0_letter_in_name_get_error_response": true,
+  "create_kit_name_kit_test.py::test_create_kit_512_letter_in_name_get_error_response": true,
+  "create_kit_name_kit_test.py::test_create_kit_no_name_get_error_response": true,
+  "create_kit_name_kit_test.py::test_create_kit_number_type_name_get_error_response": true
+}
